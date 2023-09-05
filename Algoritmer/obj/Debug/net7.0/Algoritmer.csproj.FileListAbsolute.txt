@@ -1,0 +1,14 @@
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\bin\Debug\net7.0\Algoritmer.exe
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\bin\Debug\net7.0\Algoritmer.deps.json
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\bin\Debug\net7.0\Algoritmer.runtimeconfig.json
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\bin\Debug\net7.0\Algoritmer.dll
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\bin\Debug\net7.0\Algoritmer.pdb
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\Algoritmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\Algoritmer.AssemblyInfoInputs.cache
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\Algoritmer.AssemblyInfo.cs
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\Algoritmer.csproj.CoreCompileInputs.cache
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\Algoritmer.dll
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\refint\Algoritmer.dll
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\Algoritmer.pdb
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\Algoritmer.genruntimeconfig.cache
+C:\Users\berti\Documents\Max Utbildnings\MaxProjekt\Algoritmer\obj\Debug\net7.0\ref\Algoritmer.dll
